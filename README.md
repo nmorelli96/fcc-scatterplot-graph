@@ -1,5 +1,3 @@
-# fcc-scatterplot-graph
-
 # D3 scatterplot graph
 
 A scatterplot graph created for learning purposes using HTML, CSS, JavaScript, and D3.
